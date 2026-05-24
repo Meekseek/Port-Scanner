@@ -10,7 +10,7 @@ A lightweight network reconnaissance tool built in Python. This script utilizes 
 ### 🛠️ Usage
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Meekseek/Port-Scanner.git]
+    git clone https://github.com/Meekseek/Port-Scanner.git
     ```
 2.  Run the scanner:
     ```bash
